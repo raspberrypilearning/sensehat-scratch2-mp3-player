@@ -1,48 +1,35 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+In this project you will be making your very own MP3 player using a Raspberry Pi and a Sense HAT. You'll be able to shift between tracks in your playlist, change the volume, and show a cool disco display on the LED matrix. 
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
+<video width="640" height="360" controls>
+<source src="images/mp3.webm" type="video/webm">
+Your browser does not support WebM video, so try FireFox or Chrome.
+</video>
 
 --- collapse ---
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+
++ [Use basic programming constructs to create simple programs](https://curriculum.raspberrypi.org/programming/creator/){:target="_blank"}
++ [Use basic digital, analogue, and electromechanical components](https://curriculum.raspberrypi.org/physical-computing/creator/){:target="_blank"}
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: What you will need
+---
+- A Raspberry Pi (not a Zero/Zero W)
+- A Sense HAT
+
+Optional:
+- Speakers or headphones
 
 --- /collapse ---
 
@@ -50,9 +37,9 @@ title: What you will learn
 ---
 title: Additional information for educators
 ---
-
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 --- /collapse ---
+
+
