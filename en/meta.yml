@@ -1,0 +1,15 @@
+title: Sense HAT music player
+hero_image: images/banner.png
+description: Build a sparkling MP3 player with Scratch and the Sense HAT
+version: 4
+listed: true
+copyedit: true
+last_tested: "2018-05-29"
+steps:
+  - title: Introduction
+  - title: Making it sparkle
+  - title: Playing some tunes
+  - title: Displaying the track number
+  - title: Changing the volume
+  - title: Changing the track
+  - title: "Challenge: shuffle the tracks"
